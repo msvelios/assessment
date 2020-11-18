@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MyTravelHelper/Pods-MyTravelHelper-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/SwiftSpinner/SwiftSpinner.framework
+${BUILT_PRODUCTS_DIR}/XMLParsing/XMLParsing.framework
